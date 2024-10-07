@@ -10,4 +10,4 @@ I consider myself an agile practitioner, working with
 agile squads following best practices (scalable code, TDD, DDD) and within CI/CD
 environments.\
 Always looking for growth and learn, I have been working also remotely in distributed teams around
-the world. \
+the world.
